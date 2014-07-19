@@ -3,7 +3,8 @@
 #endif
 
 
-#include <stdlib.h>
+#include "application.h"
+
 
 plotly::plotly(char *username, char *api_key, char* stream_tokens[], char *filename, int nTraces)
   {
