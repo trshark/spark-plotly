@@ -3,6 +3,7 @@
 #endif
 
 
+#include <stdlib.h>
 
 plotly::plotly(char *username, char *api_key, char* stream_tokens[], char *filename, int nTraces)
   {
