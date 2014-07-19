@@ -1,6 +1,8 @@
 #ifndef spark_plotly_h
 #define spark_plotly_h
 
+#include "application.h"
+
 class plotly
 {
     public:
