@@ -1,0 +1,7 @@
+{
+  "name": "Plot.ly library for Spark",
+  "author": "Martin Cooley",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Based off Plot.ly examples for Arduino."
+}
