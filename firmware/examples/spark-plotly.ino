@@ -3,7 +3,7 @@
 #define DATA_POINTS 4
 
 char* data_point_tokens[NUM_TOKENS] = {"token1", "token2", "token3","token4"};
-plotly graph = plotly("username", "secret", streaming_tokens, "streamname", DATA_POINTS);
+plotly graph = plotly("username", "secret", data_points_tokens, "streamname", DATA_POINTS);
 
 void setup() {
    graph.init();
