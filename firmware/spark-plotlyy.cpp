@@ -1,5 +1,5 @@
-#ifndef spark_plotly_h
-#include "spark-plotly.h"
+#ifndef spark_plotlyy_h
+#include "spark-plotlyy.h"
 #endif
 
 
